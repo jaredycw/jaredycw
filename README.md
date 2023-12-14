@@ -1,6 +1,6 @@
 # Hello, I'm Jared Yeung 👋
 <p align="center">
-  <img src="https://cdn.sanity.io/images/mrzc8peh/production/0f415fc9433ba73b29425b89a3205b6fc4fbeaa1-10x12.svg" alt="Your SVG" width="225">
+  <img src="https://cdn.sanity.io/images/mrzc8peh/production/0f415fc9433ba73b29425b89a3205b6fc4fbeaa1-10x12.svg" alt="Icon" width="225">
 </p>
 Formerly known as (Chris), I am a Web Designer/Developer with a passion for creating visually appealing and functional websites.
 
