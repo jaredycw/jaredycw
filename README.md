@@ -1,5 +1,6 @@
 # Hello, I'm Jared Yeung 👋
-Formerly known as (Chris), I am a Web Designer/Developer with a passion for creating visually appealing and functional websites. Welcome to my GitHub repository!
+Formerly known as (Chris), I am a Web Designer/Developer with a passion for creating visually appealing and functional websites./
+Welcome to my GitHub repository!
 
 ## About Me
 
