@@ -24,6 +24,8 @@ Check out my portfolio website to see some of my previous work and projects: [Po
 - Email: [jaredycw@gmail.com](mailto:jaredycw@gmail.com)
  
 
-Feel free to reach out to me if you have any questions, collaboration opportunities, or project ideas. I'm always excited to connect with fellow developers and designers!
+Feel free to reach out to me if you have any questions, collaboration opportunities, or project ideas. 
+
+I'm always excited to connect with fellow developers and designers!
 
 Thank you for visiting my GitHub repository. I appreciate your interest and support!
